@@ -1,4 +1,4 @@
-<img width="1470" alt="Screenshot 2025-03-06 at 11 05 36 AM" src="https://github.com/user-attachments/assets/dd66f9e0-a257-471c-8ed6-5a48091b2dc6" /># Product-ASCII-generator
+# Product-ASCII-generator
 🎨 ASCII Art Generator
 A simple GUI-based ASCII Art Generator built using Python and Tkinter. This tool allows users to convert text into ASCII art with customizable fonts and themes. It also supports saving the generated ASCII as a .txt or .png file.
 
@@ -26,3 +26,4 @@ A simple GUI-based ASCII Art Generator built using Python and Tkinter. This tool
 
 SCREENSHOTS 
 
+<img width="1470" alt="Screenshot 2025-03-06 at 11 05 36 AM" src="https://github.com/user-attachments/assets/dd66f9e0-a257-471c-8ed6-5a48091b2dc6" />
